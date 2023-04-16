@@ -1,0 +1,12 @@
+20230406	09:44:31	087159e7-d315-4ae0-86a6-6a8000a84970	TypeError: fsPromises.readFil is not a function
+20230407	11:11:15	ffa0e118-b89f-4eae-9c56-30779ceee4fb	Error: Not allowed by CORS
+20230408	06:04:52	9a97bf94-c286-415c-aa5a-8d175da29208	ReferenceError: setEmployees is not defined
+20230415	11:43:42	431d8607-abe5-4b0f-82c8-c001a6de31fa	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+20230415	11:49:32	3eef2790-1536-46e8-8788-f4429858cdca	TypeError: employeeQuery.getFilter(...).exec is not a function
+20230415	11:50:54	fb60a441-7009-4964-9634-0c34a1029ca8	TypeError: employees.exec is not a function
+20230415	11:54:22	e771f206-1261-4d5f-b1d6-dffb295584dc	ReferenceError: employees is not defined
+20230415	14:43:52	0d73bc1c-1384-47cc-bcac-43b4f57818c9	ReferenceError: data is not defined
